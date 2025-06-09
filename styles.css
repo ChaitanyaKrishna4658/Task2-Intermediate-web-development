@@ -9,7 +9,7 @@ body {
     background:linear-gradient(#f4f4f4,#fff7f9)
 }
 body {
-  background-image: url('assets/background1.jpg'); 
+  background-image: url('background1.jpg'); 
   background-size: cover;       
   border-radius: 20px;
   background-repeat: no-repeat; 
